@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="17" uniqueCount="17"><si><t>INVOICE</t></si><si><t>Invoice No  :</t></si><si><t>Invoice Dt   :</t></si><si><t>To.</t></si><si><t>Description of Services :</t></si><si><t xml:space="preserve">Total </t></si><si><t>H4</t></si><si><t>H5</t></si><si><t>A5</t></si><si><t>A6</t></si><si><t>A7</t></si><si><t>A8</t></si><si><t>A9</t></si><si><t>Journal  :  A11</t></si><si><t>Details   A15</t></si><si><t>G15</t></si><si><t>G18</t></si></sst>
